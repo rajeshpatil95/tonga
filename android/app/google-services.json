@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "79083171251",
+    "firebase_url": "https://tonga-dev.firebaseio.com",
+    "project_id": "tonga-dev",
+    "storage_bucket": "tonga-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79083171251:android:44c3c8414e1287fb",
+        "android_client_info": {
+          "package_name": "org.chimple.tonga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79083171251-ij03k5ocfe1a4565m4bro71gui6s180o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeVcg5HrDmuoBNWiWUy3n9wPskkFSeyCQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
